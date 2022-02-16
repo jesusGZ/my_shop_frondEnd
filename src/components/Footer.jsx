@@ -1,4 +1,4 @@
-import { Facebook, Instagram, MailOutline, Phone, Room, Twitter } from '@material-ui/icons';
+import { Facebook, Instagram, MailOutline, Phone, Pinterest, Room, Twitter } from '@material-ui/icons';
 import styled from 'styled-components';
 import { mobile } from '../responsive';
 
@@ -74,7 +74,6 @@ const ContactItem = styled.div`
 const Payment = styled.img`
 	width: 50%;
 `;
-
 const Footer = () => {
 	return (
 		<Container>
